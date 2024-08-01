@@ -1,3 +1,6 @@
+# Download the Data
+[MNIST Digits](https://drive.google.com/file/d/1Mif0Xmvh4mubRNbmQrLOIJomFjOJNl5s/view?usp=sharing)
+
 # Project Inspiration
 [Mathematics of Neural Network](https://youtu.be/b7NnMZPNIXA?si=71v6iAa4-5y6OQ6-)
 
