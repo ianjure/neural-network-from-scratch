@@ -6,7 +6,7 @@ INPUT -> HIDDEN LAYER [ DENSE LAYER -> ACTIVATION LAYER ]
 
 Author: Ian Jure Macalisang
 Email: ianjuremacalisang2@gmail.com
-Accuracy: 94-95%
+Accuracy: 90-95%
 """
 
 import pandas as pd
